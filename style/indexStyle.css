@@ -1,3 +1,4 @@
+
 html {
   margin-left: -10px;
   margin-top: -10px;
@@ -194,11 +195,11 @@ section {
   }
 
   header {
-    width: 391.5px
+    width: 390px;
   }
 
   nav {
-    width: 372px
+    width: 370px;
   }
   
   .slider {
@@ -309,6 +310,7 @@ section {
 }
 
 .scroll-top-btn {
+  
   display: hidden;
   position: fixed;
   bottom: 20px;
